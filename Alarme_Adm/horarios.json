@@ -1,0 +1,27 @@
+[
+    {
+        "hora": "07:20",
+        "nome": "Inicio da aula",
+        "imagem": "Screenshot_2026-04-07_18-17-27.png"
+    },
+    {
+        "hora": "09:10",
+        "nome": "Intervalo",
+        "imagem": "Screenshot_2026-04-07_18-17-27.png"
+    },
+    {
+        "hora": "09:30",
+        "nome": "Volta do Intervalo",
+        "imagem": "Screenshot_2026-04-07_18-17-27.png"
+    },
+    {
+        "hora": "12:15",
+        "nome": "Fim das Aulas",
+        "imagem": "Screenshot_2026-04-07_18-17-27.png"
+    },
+    {
+        "hora": "16:20",
+        "nome": "FIM DE AULA",
+        "imagem": "Screenshot_2026-04-07_18-17-27.png"
+    }
+]
